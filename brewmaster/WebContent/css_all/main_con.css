@@ -1,0 +1,129 @@
+@charset "utf-8";
+#world_map {
+	float: left;
+	height: 570px;
+	width: 1200px;
+	margin-top: 30px;
+}
+#best_beer {
+	float: left;
+	height: 1000px;
+	width: 1200px;
+}
+#bestbeer_title {
+	float: left;
+	height: 100px;
+	width: 1200px;
+}
+#bestbeer_contents {
+	float: left;
+	height: 360px;
+	width: 1000px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.bestbeer2 {
+	float: left;
+	height: 360px;
+	width: 320px;
+	margin-left: 20px;
+}
+.bestbeer3 {
+	float: left;
+	height: 360px;
+	width: 320px;
+	margin-left: 20px;
+}
+
+
+.bestbeer1 {
+	float: left;
+	height: 360px;
+	width: 320px;
+}
+
+
+
+
+.image01 {
+	float: left;
+	height: 570px;
+	width: 200px;
+}
+.image02 {
+	float: left;
+	height: 160px;
+	width: 200px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.image03 {
+	float: left;
+	height: 160px;
+	width: 800px;
+}
+.image04 {
+	float: left;
+	height: 140px;
+	width: 200px;
+}
+.image05 {
+	float: left;
+	height: 140px;
+	width: 150px;
+}
+.image06 {
+	float: left;
+	height: 140px;
+	width: 150px;
+}
+.image07 {
+	float: left;
+	height: 140px;
+	width: 410px;
+}
+.image08 {
+	float: left;
+	height: 140px;
+	width: 90px;
+}
+.image09 {
+	float: left;
+	height: 270px;
+	width: 130px;
+}
+.image10 {
+	float: left;
+	height: 190px;
+	width: 150px;
+}
+.image11 {
+	float: left;
+	height: 190px;
+	width: 70px;
+}
+.image12 {
+	float: left;
+	height: 190px;
+	width: 150px;
+}
+.image13 {
+	float: left;
+	height: 190px;
+	width: 210px;
+}
+.image14 {
+	float: left;
+	height: 70px;
+	width: 290px;
+}
+.image15 {
+	float: left;
+	height: 120px;
+	width: 290px;
+}
+.image16 {
+	float: left;
+	height: 80px;
+	width: 870px;
+}

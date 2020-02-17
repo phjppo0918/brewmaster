@@ -1,0 +1,45 @@
+#admin_wrap {
+	float: left;
+	height: 600px;
+	width: 800px;
+	margin-top: 100px;
+	margin-left: 220px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 30px;
+	line-height: 1.8cm;
+}
+#admin_header {
+	text-align: center;
+	float: left;
+	height: 80px;
+	width: 200px;
+	margin-left: 290px;
+	
+}
+#admin_main {
+	float: left;
+	height: 400px;
+	width: 800px;
+
+}
+#admin_action1 {
+	float: left;
+	height: 170px;
+	width: 230px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#admin_action2 {
+	float: left;
+	height: 170px;
+	width: 230px;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+#admin_action3 {
+	float: left;
+	height: 170px;
+	width: 230px;
+	margin-left: 20px;
+	margin-top: 20px;
+}

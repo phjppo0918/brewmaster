@@ -1,0 +1,129 @@
+#send_email_wrap {
+	font-family: "나눔바른고딕", "나눔고딕";
+	clear: both;
+	float: left;
+	width: 600px;
+	margin-top: 90px;
+	margin-left: 350px;
+	font-size: 20px;
+}
+input {
+	border-bottom-style: solid;
+	border-bottom-color: #10534c;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	width: 503px;
+	height: 30px;
+	border-bottom-width: 1px;
+	font-size: 20px;
+}
+#send_email_header{
+	float: left;
+	clear: both;
+	width: 130px;
+	height: 60px;	
+	text-align: center;
+	font-size: 30px;
+	margin-left: 240px;
+}
+
+#user_main{
+	float: left;
+	clear: both;
+	width: 600px;
+	height: 100px;
+	margin-top: 80px;
+			
+}
+#user_id{
+	float: left;
+	clear: both;
+	width: 570px;
+	height: 40px;
+	margin-left: 10px;
+	
+}
+#user_id_header{
+	float: left;
+	width: 60px;
+	height: 40px;	
+}
+#user_id_main{
+	float: left;
+	width: 400px;
+	height: 40px;
+	margin-left: 10px;
+}
+#user_email{
+	float: left;
+	clear: both;
+	width: 570px;
+	height: 50px;
+	margin-left: 10px;
+}
+#user_email_header{
+	float: left;
+	width: 60px;
+	height: 40px;	
+}
+#user_email_main{
+	float: left;
+	width: 400px;
+	heiht: 40px;
+	margin-left: 10px;
+}
+#user_input{
+	float: left;
+	clear: both;
+	width:400px;
+	height: 350px;
+	margin-top: 15px;	
+}
+#input_title{
+	float: left;
+	clear: both;
+	width: 590px;
+	height: 45px;
+	margin-left: 10px;	
+}
+#input_title_header{
+	float: left;
+	width: 50px;
+	height: 40px;	
+	margin-top: 7px;
+}
+#input_title_main{
+	float: left;
+	width: 500px;
+	height: 40px;
+	margin-left: 5px;
+}
+#user_content{
+	float: left;
+	clear: both;
+	width: 590px;	
+	margin-left: 10px;
+}
+#user_content_header{
+	float: left;
+	width: 50px;
+}
+#user_content_main{
+	float: left;
+	width: 500px;
+	margin-left: 5px;
+}	
+#user_textarea{
+	border-color: #10534c;
+	border-width: 1px;
+	width: 500px;
+	height: 300px;
+	font-size: 20px;
+}
+#submit{
+	float: left;
+	clear: both;
+	margin-left: 270px;
+	margin-top: 30px;	
+}

@@ -1,0 +1,66 @@
+@charset "utf-8";
+#h_beer_accept_wrap {
+	float: left;
+	height: 800px;
+	width: 800px;
+	margin-top: 90px;
+	margin-left: 240px;
+}
+#h_beer_accept_header {
+	float: left;
+	height:60px;
+	width: 800px;
+}
+#h_beer_accept_title {
+	float: left;
+	height: 80px;
+	width: 210px;
+}
+#h_beer_accept_main {
+	float: left;
+	height: 700px;
+	width: 800px;
+}
+table {
+	width: 700px;
+	height: 400px;
+	font-size: 13pt;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+
+}
+td,th{
+	text-align: center;
+	border-bottom: 1px solid #444444;
+    padding: 10px;
+
+}
+#detail_button{
+	text-align: center;
+	height: 25px;
+	width: 70px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	background: none;
+	font-color: 13pt;
+}
+#accept_button{
+	height: 25px;
+	width: 50px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	background: none;
+}
+#refuse_button{
+	height: 25px;
+	width: 50px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	background: none;
+}

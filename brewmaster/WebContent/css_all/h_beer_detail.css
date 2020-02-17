@@ -1,0 +1,138 @@
+@charset "utf-8";
+#h_beer_detail_wrap{
+	float: left;
+	clear: both;
+	width: 1000px;
+	height: 650px;
+	margin-top: 95px;
+	margin-left: 200px;
+	font-family: "나눔바른고딕", "나눔고딕";
+}
+#product_main{
+	float: left;
+	width: 225px;
+	height: 520px;
+	text-align: center;	
+}
+#product_image{
+	float: left;
+	width: 225px;
+	height: 460px;
+	
+}
+#product_count{
+	float: left;
+	width: 225px;
+	height: 30px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+select{
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;	
+	margin-left: 5px;
+}
+#inf{
+	float: left;
+	width: 600px;
+	height: 600px;
+	margin-left: 50px;	
+	font-size: 20px;
+}
+#product_name_kr{
+	font-size: 20px;	
+}
+#product_price{
+	font-size: 30px;
+	color: red;	
+}
+#product_salesman{
+	width: 500px;
+	margin-top: 15px;	
+}
+#salesman_font{
+	float: left;
+	width: 80px;	
+}
+#salesman_content{
+	float: left;
+	width: 300px;
+	margin-left: 21px;	
+}
+#product_sugar{
+	float: left;
+	width: 500px;
+	margin-top:15px;
+	
+}
+#sugar_font{
+	float: left;
+	width: 40px;	
+}
+#sugar_image{
+	float: left;
+	height: 20px;
+	margin-left: 60px;	
+	
+}
+#product_carbonic{
+	float: left;
+	width: 500px;
+	margin-top: 15px;
+}
+#carbonic_font{
+	float: left;
+	width: 80px;	
+}
+#carbonic_image{
+	float: left;
+	height: 20px;
+	margin-left: 21px;	
+}
+#product_alchol{
+	float: left;
+	width: 500px;	
+	margin-top: 15px;
+	
+}
+#alchol_font{
+	float: left;
+	width: 40px;
+}
+#alchol_content{
+	float: left;
+	width: 300px;
+	margin-left: 60px;	
+}
+#product_detail{
+	float: left;
+	margin-top: 15px;
+	
+}
+#product_detail_font{
+	float: left;
+	width:80px;	
+}
+#product_detail_content{
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+}
+#product_explain{
+	float: left;
+	width: 500px;
+	margin-top: 15px;
+}
+#explain_font{
+	float: left;
+	width: 80px;
+	
+	}
+#explain_content{
+	float:left;
+	width: 300px;
+	height: 300px;	
+	margin-left: 20px;
+}

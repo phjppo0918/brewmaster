@@ -1,0 +1,45 @@
+@charset "utf-8";
+#p_complete_wrap {
+	float: left;
+	height: 500px;
+	width: 800px;
+	margin-top: 90px;
+	margin-left:150px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 25px;
+}
+#p_complete_header{
+	float: left;
+	height: 160px;
+	width: 800px;
+	text-align: center;
+	font-size: 25px;
+	line-height: 1.3cm;
+	margin-left: 50px;		
+}
+#p_complete_main {
+	float: left;
+	height: 200px;
+	width: 500px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 200px;		
+	
+}
+#p_button1 {
+	float: left;
+	height: 50px;
+	width: 120px;
+	margin-left: 185px;
+}
+#complete{
+	height:50px;
+	width: 120px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;	
+	background-color: #f6c420;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 15px;	
+}

@@ -1,0 +1,107 @@
+@charset "utf-8";
+#product_enroll_wrap {
+	float: left;
+	height: 1000px;
+	width: 800px;
+	margin-top: 90px;
+	margin-left: 350px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 15px;
+		
+}
+#product_header {
+	float: left;
+	height: 60px;
+	width: 800px;
+}
+#product_main{
+	float:left;
+	height:800px;
+	width: 800px;	
+}
+#p_kind{
+	height:30px;
+	width: 30px;
+	
+}
+
+#set_beer{
+	margin-left: 40px;
+	font-size: 15pt;
+	float: left;
+	
+}
+#set_wine{
+	margin-left: 40px;
+	font-size: 15pt;
+	float: left;
+}
+input {
+	
+	height:30px;
+	width: 300px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	font-size: 15pt;
+}
+select{
+		width: 50px;	
+		margin-top: 15px;
+		border-top-color: #f6c420;
+		border-right-color: #f6c420;
+		border-bottom-color: #f6c420;
+		border-left-color: #f6c420;
+		font-size: 13pt;	
+}
+
+table{
+	width: 700px;
+	height: 800px;
+	margin-left: 40px;	
+}
+td {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	
+
+}
+th {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #fff;
+	border-right-color: #fff;
+	border-bottom-color: #fff;
+	border-left-color: #fff;
+	text-align: left;
+
+}
+#p_price{
+	width: 100px;	
+}
+#p_country{
+	width: 100px;	
+}
+#p_alchol{
+	width: 100px;
+}
+#p_explain{
+	
+	magin-top: 15px;	
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+}

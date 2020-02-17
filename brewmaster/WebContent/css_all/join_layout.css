@@ -1,0 +1,142 @@
+@charset "utf-8";
+#join_wrap {
+	float: left;
+	height: 700px;
+	width: 700px;
+	margin-top: 90px;
+	margin-left: 350px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 15px;
+		
+}
+#join_header {
+	float: left;
+	height: 80px;
+	width: 700px;
+}
+#join_main {
+	float: left;
+	height: 600px;
+	width: 700px;
+}
+
+input {
+	
+	height: 40px;
+	width: 250px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	font-size: 15pt;
+	
+
+}
+
+table{
+	width: 500px;
+	margin-left: 50px;	
+}
+td {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+
+}
+th {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #fff;
+	border-right-color: #fff;
+	border-bottom-color: #fff;
+	border-left-color: #fff;
+	text-align: left;
+}
+#u_ph1{
+	width: 60px;
+	text-align: center;
+}
+#u_ph2{
+	width: 60px;
+	text-align: center;
+}
+#u_ph3{
+	width: 60px;
+	text-align: center;
+}
+#u_email_1{
+	width: 130px;	
+	text-align: center;
+}
+#u_email_2{	
+	width: 130px;
+	height: 30px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+}
+#email{
+	width: 90px;
+	height: 30px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	
+}
+#year{
+	width: 70px;
+	height: 30px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	
+}
+#month{
+	width: 50px;
+	height: 30px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+
+}
+#day{
+	width: 50px;
+	height: 30px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+}
+
+#id_notice{
+	margin-top: 5px;	
+}
+#password_notice{
+	margin-top: 5px;
+}
+#id_check {
+	height: 70px;
+	width: 150px;
+	float: left;
+	margin-top: 40px;
+}
+
+#join_header_image {
+	float: left;
+	height: 65px;
+	width: 170px;
+}

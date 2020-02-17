@@ -1,0 +1,126 @@
+@charset "utf-8";
+#worldbeer_content_wrap{
+	float: left;
+	width: 1100px;
+	height: 1700px;
+	margin-top: 25px;
+	margin-left: 100px;
+	
+	font-family: "나눔바른고딕", "나눔고딕";
+}
+#worldbeer_content_header{
+	float: left;
+	width: 820px;
+	height: 50px;
+	text-align: center;
+	background-color: #faf5ef;
+	margin-left: 80px;
+}
+#worldbeer_content_header2 {
+	
+	float: left;
+	height: 100px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 240px;
+	text-align: center;
+}
+#worldbeer_content_header2_main{
+	width: 500px;
+	height: 50px;	
+}
+#p_name{
+	width: 200px;
+
+}
+#worldbeer_content_main{
+	float: left;
+	width:800px;
+	height: 1450px;	
+	margin-top: 15px;
+	margin-left:90px;
+}
+#worldbeer{
+	float: left;
+	width: 150px;
+	height: 450px;
+	margin-left: 40px;	
+	margin-top: 20px;
+	text-align: center;
+}
+#worldbeer_image{
+	float: left;
+	width: 150px;
+	height: 270px;
+		
+}
+#worldbeer_main{
+	float: left;
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	font-size: 14px;	
+}
+#worldbeer_name_kr{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 15px;
+}
+#worldbeer_name_en{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 15px;
+}
+p{
+	line-height: 1px;
+	
+}
+#p_tag_price{
+
+	color: #F00;	
+	font-size: 12px;
+	margin-top: 15px;
+}
+#worldbeer_action{
+	float: left;
+	text-align: center;	
+	margin-left: 55px;
+	
+}
+#paging{
+	float: left;
+	width: 300px;
+	height: 30px;
+	text-align: center;	
+	margin-left: 400px;
+}
+#h_beer_enroll_request{
+	float: left;
+	clear: both;
+	width: 150px;
+	height: 35px;	
+	margin-left: 730px;
+}
+#header_keyword{
+	float: left;
+	margin-top: 15px;
+	margin-left: 130px;	
+}
+#p_name_input{
+	float: left;	
+}
+#search{
+	float:left;
+	margin-left: 2px;
+	
+}
+#scroll_cart{
+	float: right;
+	width: 200px;
+	height: 1700px;
+	
+}

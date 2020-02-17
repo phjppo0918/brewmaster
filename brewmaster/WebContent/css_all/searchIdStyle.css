@@ -1,0 +1,72 @@
+@charset "utf-8";
+.login_main {
+	height: 600px;
+	width: 800px;
+	margin-top: 50px;
+	margin-left: 240px;
+	background-color: #fff;
+	float: left;
+	clear: both;
+}
+.login_header {
+	clear: both;
+	float: left;
+	height: 70px;
+	width: 300px;
+	font-size: 25pt;
+	text-align: center;
+	margin-top: 35px;
+	margin-left: 220px;
+
+}
+#page_main .login_main .login_input form p #button {
+	background-color: #f6c420;
+	color: #f1f1f2;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 35pt;
+}
+#search_id_button {
+	background-color: #f6c420;
+	color: #f1f1f2;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 20pt;
+}
+#search_pw_button {
+	background-color: #f6c420;
+	color: #f1f1f2;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 20pt;
+}
+input {
+	height: 70px;
+	width: 350px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	font-size: 20pt;
+
+}
+.login_input {
+	clear: both;
+	float: left;
+	height: 300px;
+	width: 600px;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.login_footer {
+	clear: both;
+	float: left;
+	width: 800px;
+	text-align: center;
+	margin-top: 15px;
+	font-size: 15pt;
+	}
+#wrap #page_main .login_main .login_footer a {
+	color: #000000;
+	text-decoration: none;
+}

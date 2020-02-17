@@ -1,0 +1,86 @@
+@charset "utf-8";
+#p_mywish_wrap {
+	float: left;
+	width: 800px;
+	height: 970px;
+	margin-top: 90px;
+	margin-left: 200px;
+}
+#p_mywish_header {
+	float: left;
+	height:75px;
+	width: 800px;
+}
+#p_mywish_title {
+	float: left;
+	height: 65px;
+	width: 170px;
+}
+#p_mywish_main {
+	float: left;
+	width: 800px;
+	height: 870px;
+	margin-top: 20px;
+}		
+
+table {
+	width: 800px;
+	font-size: 13pt;
+	border-collapse: collapse;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #444444;
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+}
+td,th{
+	text-align: center;
+	border-bottom: 1px solid #444444;
+    padding: 10px;
+
+}
+#p_mywish_button {
+	float: left;
+	height: 100px;
+	width: 450px;
+	margin-top: 50px;
+	margin-left: 160px;	
+}
+#p_mywish_action_button{
+	float: left;
+	width: 180px; 
+	height:65px;
+	margin-left: 2px;
+}
+#delete_button{
+	height: 25px;
+	width: 50px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	background: none;
+}
+#button{
+	float: left;
+	clear: both;
+	width: 220px;
+	height: 40px;	
+	margin-left: 285px;
+	margin-top: 25px;
+}
+#button_line{
+	border-bottom-style: none;		
+}
+#product_image{
+	float: left;
+	clear: both;
+	width: 60px;
+	height: 108px;	
+	margin-left: 35px;
+}
+#paging{
+	border-bottom-style: none;
+	border-bottom-width: 0px;	
+}
+

@@ -1,0 +1,39 @@
+@charset "utf-8";
+#mypage_wrap {	
+	float: left;
+	height: 1000px;
+	width: 800px;
+	margin-top: 60px;
+	margin-left: 230px;
+}
+#mypage_header {
+	float: left;
+	height: 60px;
+	width: 800px;
+	text-align: center;	 
+	line-height: 1.7cm;
+	font-size: 22pt;
+	font-family: "나눔바른고딕", "나눔고딕";
+	color: #414141;
+}
+
+#mypage_main{
+	float: left;
+	height: 700px;
+	width: 800px;
+}
+.mypage_action {
+	float: left;
+	height: 170px;
+	width: 230px;
+	margin-top: 20px;
+	margin-left: 20px;
+	}
+.mypage_action_coin {
+	float: left;
+	height: 170px;
+	width: 230px;
+	margin-top: 20px;
+	margin-left: 130px;
+	
+	}	

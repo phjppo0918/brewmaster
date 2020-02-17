@@ -1,0 +1,38 @@
+@charset "utf-8";
+#modify_user_complete_wrap {
+	float: left;
+	height: 300px;
+	width: 500px;
+	margin-top: 90px;
+	margin-left:350px;
+}
+#modify_user_complete_header{
+	float: left;
+	height: 50px;
+	width: 400px;
+	text-align: center;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 15px;
+	line-height: 1.3cm;
+	margin-left: 50px;		
+}
+#modify_user_complete_main {
+	float: left;
+	height: 200px;
+	width: 500px;
+	text-align: center;
+}
+#main_button {
+	float: left;
+	height: 40px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 145px;
+}
+#my_button {
+	float: left;
+	height: 40px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 10px;
+}

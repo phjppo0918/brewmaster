@@ -1,0 +1,103 @@
+@charset "utf-8";
+#h_beer_wrap {
+	float: left;
+	height: 1000px;
+	width: 800px;
+	margin-top: 90px;
+	margin-left: 350px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 15px;
+		
+}
+#h_beer_header {
+	float: left;
+	height: 60px;
+	width: 800px;
+}
+#h_beer_main{
+	float:left;
+	height:800px;
+	width: 800px;	
+}
+input {
+	
+	height:30px;
+	width: 300px;
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	font-size: 15pt;
+}
+select{
+		width: 50px;	
+		margin-top: 15px;
+		border-top-color: #f6c420;
+		border-right-color: #f6c420;
+		border-bottom-color: #f6c420;
+		border-left-color: #f6c420;
+		font-size: 13pt;	
+}
+
+table{
+	width: 700px;
+	height: 700px;
+	margin-left: 40px;	
+}
+td {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+
+	
+
+}
+th {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #fff;
+	border-right-color: #fff;
+	border-bottom-color: #fff;
+	border-left-color: #fff;
+	text-align: left;
+
+}
+#product_enrol_button{
+	
+	width: 100px;
+	height: 40px;
+	margin-top: 25px;
+	margin-left: 250px;
+	
+	background-image: url(product_enroll_images/product_enroll_button.png);
+	background-repeat: no-repeat;		
+}
+#h_beer_suger{
+	margin-bottom: 13px;	
+}
+#h_beer_carbonic{
+	margin-bottom: 13px;	
+}
+
+
+#h_beer_alchol{
+	width: 100px;
+}
+#h_beer_explain{
+	
+	magin-top: 15px;	
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;
+}

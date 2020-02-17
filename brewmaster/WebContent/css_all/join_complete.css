@@ -1,0 +1,68 @@
+@charset "utf-8";
+input {
+	height: 50px;
+	width: 300px;
+	font-size: 15pt;
+	margin-left: 50px;
+}
+.login_main {
+	height: 800px;
+	width: 800px;
+	margin-top: 150px;
+	margin-left: 200px;
+	background-color: #fff;
+	float: left;
+	clear: both;
+	color: #333;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+h1 {
+	font-size: 80px;
+	color: #333;
+}
+#page_main {
+	clear: both;
+	float: left;
+	height: 700px;
+	width: 1200px;
+}
+#join_footer {
+	clear: both;
+	float: left;
+	width: 800px;
+	text-align: center;	
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 35pt;
+	margin-top: 35px;
+}
+.login_header {
+	clear: both;
+	float: left;
+	height: 100px;
+	width: 800px;
+	font-size: 45pt;
+	text-align: center;
+	margin-top: 35px;
+
+}
+#join_start_button{
+	background-color: #f6c420;
+	color: #f1f1f2;
+	font-family: "나눔바른고딕", "나눔고딕";
+	font-size: 25pt;
+	height: 60px;
+	width: 550px;
+	margin-left: 5px;
+}	
+#join_complete_font_color{
+	color: ##f6c420;
+}
+#body {	
+	clear: both;
+	float: left;
+	width: 1200px;
+	height: 800px;
+}

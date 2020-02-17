@@ -1,0 +1,141 @@
+@charset "utf-8";
+#product_content_wrap{
+	float: left;
+	width: 1100px;
+	height: 1750px;
+	margin-top: 25px;
+	margin-left: 100px;
+	font-family: "나눔바른고딕", "나눔고딕";
+}
+
+#product_content_header{
+	float: left;
+	width: 800px;
+	height: 50px;
+	text-align: center;
+	margin-left: 100px;
+	background-color:  #fcf9f3;
+	}
+
+#product_content_header2 {
+	float: left;
+	height: 100px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 255px;
+	text-align: center;
+}
+#product_content_header2_main{
+	width: 500px;
+	height: 50px;	
+}
+#p_name{
+	width: 200px;
+
+}
+#product_content_main{
+	float: left;
+	width: 820px;
+	height: 1450px;
+	margin-left: 80px;	
+	margin-top: 40px;
+}
+#product{
+	float: left;
+	width: 150px;
+	height: 450px;
+	margin-left: 50px;	
+	margin-top: 20px;
+	text-align: center;
+}
+#product_image{
+	float: left;
+	width: 150px;
+	height: 270px;
+		
+}
+#product_main{
+	float: left;
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	font-size: 14px;	
+}
+#worldbeer_name_kr{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 15px;
+}
+#worldbeer_name_en{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 5px;
+}
+p{
+	line-height: 1px;
+	
+}
+#p_tag_price{
+
+	color: #F00;	
+	font-size: 12px;
+	margin-top: 15px;
+}
+#product_action{
+	float: left;
+	text-align: center;	
+	margin-left: 50px;
+	
+}
+#paging{
+	float: left;
+	width: 300px;
+	height: 30px;
+	text-align: center;	
+	margin-left: 400px;
+}
+#h_beer_enroll_request{
+	float: left;
+	clear: both;
+	width: 150px;
+	height: 35px;	
+	margin-left: 730px;
+}
+#header_keyword{
+	float: left;
+	margin-top: 15px;
+	margin-left: 130px;	
+}
+#p_name_input{
+	float: left;	
+}
+#search{
+	float:left;
+	margin-left: 2px;
+	
+}
+#action_div{
+	float: left;
+	margin-left: 140px;	
+	margin-top: 10px;
+}
+#p_name_div{
+	float: left;
+}
+#search_button_div{
+	float: left;
+	width: 30px;
+	height: 20px;
+	margin-left: 2px;
+}
+#scroll_cart{
+	float: right;
+	width: 200px;
+	height: 1655px;
+
+
+}

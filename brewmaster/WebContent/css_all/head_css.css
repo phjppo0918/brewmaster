@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+ a:link { color: black; text-decoration: none;}
+ a:visited { color: black; text-decoration: none;}
+ a:hover { color: #0F514B; text-decoration: none;}
+
+#header {
+	float: left;
+	height: 145px;
+	width: 1200px;
+}
+#header_title {
+	float: left;
+	height: 45px;
+	width: 1200px;
+	margin-top: 50px;
+}
+#header_logo {
+	float: left;
+	height: 45px;
+	width: 280px;
+	margin-left: 250px;
+}
+#login {
+	float: left;
+	height: 15px;
+	width: 55px;
+	margin-top: 25px;
+	margin-left: 160px;
+}
+
+#top_hd1 {
+   float: right;
+ 
+   width: 90px;
+   margin-top: 20px;
+   margin-left: 5px;
+
+}
+#top_hd2 {
+   float: right;
+
+   width: 90px;
+   margin-top: 20px;
+   margin-left: 5px;
+   
+}
+#top_hd3 {
+   float: left;
+
+   width: 210px;
+   margin-top: 20px;
+   margin-left: 5px;
+
+}
+
+#cart {
+	float: right;
+	height: 15px;
+	width: 20px;
+	margin-top: 25px;
+	margin-left: 10px;
+}
+#greenbar {
+	float: left;
+	height: 5px;
+	width: 1200px;
+	margin-top: 2px;
+}
+#menubar {
+	float: left;
+	height: 30px;
+	width: 1200px;
+	margin-top: 3px;
+}
+#menubar_contents {
+	float: left;
+	height: 30px;
+	width: 400px;
+	margin-left: 400px;
+}
+.worldbeer_menu {
+	float: left;
+	height: 30px;
+	width: 120px;
+}
+.housebeer_menu {
+	float: left;
+	height: 30px;
+	width: 120px;
+}
+#yellowbar {
+	float: left;
+	height: 2px;
+	width: 1200px;
+	margin-top: 2px;
+}
+
+.wine_menu {
+	float: left;
+	height: 30px;
+	width: 80px;
+}
+.events_menu {
+	float: left;
+	height: 30px;
+	width: 80px;
+}
+
+
+
+
+
+
+
+
+#mypage {
+	float: left;
+	height: 15px;
+	width: 80px;
+	margin-top: 25px;
+	margin-left: 10px;
+}
+
+#join {
+	float: left;
+	height: 15px;
+	width: 70px;
+	margin-top: 25px;
+	margin-left: 10px;
+}

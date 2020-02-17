@@ -1,0 +1,115 @@
+@charset "utf-8";
+#h_beer_content_wrap{
+	float: left;
+	width: 1000px;
+	height: 1700px;
+	margin-top: 25px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	margin-left: 130px;
+}
+#h_beer_content_header{
+	float: left;
+	width: 840px;
+	height: 50px;
+	text-align: center;
+	background-color: #faf5ef;
+	margin-left: 80px;
+}
+#h_beer_content_header2 {
+	clear: both;
+	float: left;
+	height: 100px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 255px;
+	text-align: center;
+}
+#h_beer_content_header2_main{
+	width: 500px;
+	height: 50px;	
+}
+#p_name{
+	width: 200px;	
+}
+#h_beer_content_main{
+	float: left;
+	width: 845px;
+	height: 1450px;
+	margin-left: 80px;	
+	margin-top: 15px;
+}
+#h_beer{
+	float: left;
+	width: 150px;
+	height: 450px;
+	margin-left: 50px;	
+	margin-top: 20px;
+	text-align: center;
+}
+#h_beer_image{
+	float: left;
+	width: 150px;
+	height: 270px;
+		
+}
+#h_beer_main{
+	float: left;
+	width: 150px;
+	height: 120px;
+	text-align: center;
+	font-size: 14px;	
+}
+#h_beer_name_kr{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 15px;
+}
+#h_beer_name_en{
+	float: left: 
+	width: 130px;
+	height: 40px;	
+	text-align: center;
+	margin-top: 15px;
+}
+p{
+	line-height: 1px;	
+}
+#p_tag_price{
+	color: #F00;	
+	font-size: 12px;
+	margin-top: 15px;
+}
+#h_beer_action{
+	float: left;
+	text-align: center;	
+	margin-left: 25px;
+}
+#paging{
+	float: left;
+	width: 300px;
+	height: 30px;
+	text-align: center;	
+	margin-left: 350px;
+}
+#h_beer_enroll_request{
+	float: left;
+	clear: both;
+	width: 150px;
+	height: 35px;	
+	margin-left: 730px;
+}
+#header_keyword{
+	float: left;
+	margin-top: 15px;
+	margin-left: 130px;	
+}
+#p_name_input{
+	float: left;	
+}
+#search{
+	float:left;
+	margin-left: 2px;
+	
+}

@@ -1,0 +1,222 @@
+.slideshow-container {
+	float: left;
+	height: 420px;
+	width: 1200px;
+	clear:both;
+
+}
+#main {
+	float: left;
+	height: 2100px;
+	width: 1200px;
+}
+#bestbeer_title {
+	float: left;
+	height: 30px;
+	width: 120px;
+	margin-left: 100px;
+}
+#bestbeer_contents {
+	float: left;
+	height: 330px;
+	width: 1200px;
+	margin-top: 40px;
+}
+#beest_beers {
+	float: left;
+	height: 330px;
+	width: 900px;
+	margin-left: 150px;
+}
+.bestbeer1 {
+	float: left;
+	height: 330px;
+	width: 250px;
+}
+.bestbeer2 {
+	float: left;
+	height: 330px;
+	width: 250px;
+	margin-left: 75px;
+}
+.bestbeer3 {
+	float: left;
+	height: 330px;
+	width: 250px;
+	margin-left: 75px;
+}
+
+
+
+
+
+
+#world_map_title {
+	float: left;
+	height: 40px;
+	width: 1200px;
+	margin-top: 50px;
+}
+#worldmap_title_img {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-left: 100px;
+}
+#world_map {
+	float: left;
+	height: 410px;
+	width: 1200px;
+	margin-top: 40px;
+}
+.img01 {
+	float: left;
+	height: 410px;
+	width: 110px;
+}
+.img02 {
+	float: left;
+	height: 60px;
+	width: 890px;
+}
+.img03_north_america {
+	float: left;
+	height: 120px;
+	width: 210px;
+}
+.img04 {
+	float: left;
+	height: 120px;
+	width: 130px;
+}
+.img05_europe {
+	float: left;
+	height: 120px;
+	width: 130px;
+}
+.img06_asia {
+	float: left;
+	height: 120px;
+	width: 420px;
+}
+.img07 {
+	float: left;
+	height: 230px;
+	width: 120px;
+}
+.img08_south_america {
+	float: left;
+	height: 230px;
+	width: 140px;
+}
+.img09 {
+	float: left;
+	height: 230px;
+	width: 50px;
+}
+.img10_africa {
+	float: left;
+	height: 170px;
+	width: 170px;
+}
+.img11 {
+	float: left;
+	height: 100px;
+	width: 410px;
+}
+.img12 {
+	float: left;
+	height: 70px;
+	width: 220px;
+}
+.img_13_australia {
+	float: left;
+	height: 70px;
+	width: 120px;
+}
+.img14 {
+	float: left;
+	height: 70px;
+	width: 70px;
+}
+.img15 {
+	float: left;
+	height: 60px;
+	width: 580px;
+}
+#bestbeer {
+	float: left;
+	height: 30px;
+	width: 1200px;
+	margin-top: 50px;
+}
+
+
+#world_map_imgs {
+	float: left;
+	height: 410px;
+	width: 1000px;
+	margin-left: 100px;
+}
+
+
+
+
+
+#top_beer {
+	float: left;
+	height: 30px;
+	width: 1200px;
+	margin-top: 80px;
+}
+#top_beer_title {
+	float: left;
+	height: 30px;
+	width: 130px;
+	margin-left: 535px;
+}
+#top_beer_contents {
+	float: left;
+	height: 350px;
+	width: 1200px;
+	margin-top: 50px;
+}
+#top_beer_imgs {
+	float: left;
+	height: 350px;
+	width: 800px;
+	margin-left: 225px;
+}
+.topbeer01 {
+	float: left;
+	height: 350px;
+	width: 200px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.topbeer01_img {
+	float: left;
+	height: 250px;
+	width: 140px;
+	margin-left: 30px;
+}
+.topbeer01_name {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-top: 10px;
+	font-weight: bold;
+	 overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 15pt;
+}
+.topbeer01_price {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-top: 10px;
+	color: #f6a93a; 
+	font-size: 13pt;
+}
+

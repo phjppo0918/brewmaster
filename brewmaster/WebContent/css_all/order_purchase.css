@@ -1,0 +1,199 @@
+/* CSS Document */
+#order_purchase_wrap{
+	float: left;
+	clear: both;
+	width: 800px;
+	marin-top: 100px;
+	margin-left: 200px;	
+}
+#order_purchase_header{
+	float: left;
+	clear: both;
+	width: 220px;
+	height: 60px;
+	margin-left: 590px;	
+}
+#order_purchase_main1{
+	float: left;
+	clear: both;
+	width: 800px;	
+}
+#order_purchase_main1_header{
+	float: left;
+	clear: both;
+	width: 160px;
+	height: 45px;
+	
+}
+#o_purchase_main1_main{
+	float: left;
+	clear: both;
+	width: 800px;	
+	margin-top: 40px;
+}
+#order_purchase_main2{
+	float: left;
+	clear: both;
+	width: 800px;
+	margin-top: 70px;	
+}
+#order_purchase_main2_header{
+	float: left;
+	clear: both;
+	width: 160px;
+	height: 45px;
+	
+}
+#o_purchase_main2_main{
+	float: left;
+	clear: both;
+	width: 800px;	
+	margin-top: 40px;
+}
+#order_purchase_main3{
+	float: left;
+	clear: both;
+	width: 800px;
+	margin-top: 70px;	
+}
+#order_purchase_main3_header{
+	float: left;
+	clear: both;
+	width: 160px;
+	height: 45px;
+	
+}
+#o_purchase_main3_main{
+	float: left;
+	clear: both;
+	width: 800px;	
+	margin-top: 40px;
+}
+
+#table1{
+	width: 800px;
+	font-size: 13pt;
+	border-top: 1px solid #bbbdbf;
+	border-collapse: collapse;
+	padding-top: 10px;	
+}
+#table2{
+	width: 800px;
+	font-size: 13pt;
+	border-top: 1px solid #bbbdbf;
+	border-collapse: collapse;	
+    
+}
+#table3{
+	width: 800px;
+	font-size: 13pt;
+    border-top: 1px solid #bbbdbf;
+    border-collapse: collapse;	
+}
+
+#table1 td{
+	text-align: center;
+	border-bottom: 1px solid #bbbdbf;
+    padding: 10px
+}
+#table1 th{
+	text-align: center;
+	border-bottom: 1px solid #bbbdbf;
+    padding: 10px
+}
+
+#table2 td{	
+	border-left: 1px solid #bbbdbf;
+	border-bottom: 1px solid #bbbdbf;
+	 padding: 10px;
+	
+}
+#table2 th{
+	border-bottom: 1px solid #bbbdbf;
+	 padding: 10px;
+}
+#table3 td{	
+	border-left: 1px solid #bbbdbf;
+	border-bottom: 1px solid #bbbdbf;
+	 padding: 10px;
+}
+#table3 th{
+	border-bottom: 1px solid #bbbdbf;
+}
+
+#purchase_button{
+	float: left;
+	clear: both;
+	width: 135px;
+	height: 45px;	
+	margin-left: 340px;
+	margin-top: 50px;
+}
+#table2_name{
+	float: left;
+	clear: both;
+	width: 590px;
+	margin-left: 10px;
+	text-align: left;
+}
+#table2_ph{
+	float: left;
+	clear: both;
+	width: 590px;
+	margin-left: 10px;
+	text-align: left;
+}
+#table_address{
+	float: left;	
+	width:590px;
+	margin-left: 10px;
+}
+#table2_address1{
+	float: left
+	width: 550px;
+	text-align: left;
+}
+#input_address{
+	float: left;
+}
+#search_ad{
+	float: left;
+	width: 80px;
+	height: 20px;
+	margin-left: 7px;
+}
+#table2_address2{
+	float: left;
+	clear: both;
+	width: 600px;
+	text-align: left;
+	
+}
+#input_detailAddress{
+	width: 510px;	
+}
+#table2_address3{
+	float: left;
+	clear: both;
+	width: 600px;
+	text-align: left;
+	margin-top: 3px;
+	
+}
+#table2_request{
+	float: left;
+	clear:both;
+	width: 590px;
+	margin-left: 10px;
+	text-align: left;
+}
+input{
+	width: 250px;	
+}
+#product_image{
+	float: left;
+	clear: both;
+	width: 70px;
+	height: 126px;	
+	margin-left: 50px;
+}

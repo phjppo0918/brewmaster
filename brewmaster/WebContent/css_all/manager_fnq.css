@@ -1,0 +1,93 @@
+#manager_fnq_wrap {
+	font-family: "나눔바른고딕", "나눔고딕";
+	float: left;
+	height: 1400px;
+	width: 800px;
+	margin-top: 90px;
+	margin-left: 210px;
+	text-align: center;
+	font-size: 15px;
+}
+#manager_fnq_header {
+	float: left;
+	height: 80px;
+	width: 800px;
+	text-align: center;
+	font-size: 40px;
+	line-height: 1.3cm;
+}
+#manager_fnq_main {
+	float: left;
+	height:890px;
+	width: 800px;
+
+}
+#fnq_type{
+	width: 480px;
+	height: 40px;
+	margin-left: 25px;
+	border: thin solid #f6c420;	
+	line-height: 1.1cm;
+	margin-left: 170px;
+
+}
+#fnq_date{
+	width: 480px;
+	height: 40px;
+	margin-left: 25px;
+	border: thin solid #f6c420;	
+	line-height: 1.1cm;
+	margin-left: 170px;	
+}
+#fnq_title{
+	width: 480px;
+	height: 40px;
+	margin-left: 25px;
+	border: thin solid #f6c420;	
+	line-height: 1.1cm;
+	margin-left: 170px;		
+	
+}
+#fnq_user{
+	width: 480px;
+	height: 40px;
+	margin-left: 25px;
+	border: thin solid #f6c420;	
+	line-height: 1.1cm;
+	margin-left: 170px;		
+	
+}
+#fnq_con{
+	width: 480px;
+	height: 150px;
+	margin-left: 25px;
+	border: thin solid #f6c420;	
+	line-height: 1.1cm;
+	margin-left: 170px;	
+	text-align: left;
+}
+#fnq_ans{
+	border-top-color: #f6c420;
+	border-right-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-left-color: #f6c420;	
+	margin-left:170px;
+	margin-rightt:170px;
+	float:left;
+	clear:right;
+}
+#align{
+	text-align: left;
+	margin-left: 175px;		
+	
+}
+#manager_anw{
+	float: left;
+	width: 90px;
+	height: 40px;
+	margin-left: 280px;	
+	margin-top: 5px;	
+}
+#important_font{
+	color: red;	
+}

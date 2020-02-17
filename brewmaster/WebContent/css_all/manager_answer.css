@@ -1,0 +1,154 @@
+@charset "utf-8";
+#fnq_wrap{
+	float: left;
+	clear: both;
+	width: 800px;
+	height: 850px;
+	margin-left: 200px;
+	font-family: "나눔바른고딕", "나눔고딕";
+	margin-top: 80px;
+
+}
+#fnq_header{
+	float: left;
+	clear:both;
+	widtH: 800px;
+	height: 50px;	
+	text-align: center;
+	font-size: 25px;
+	line-height: 1.3cm;
+
+}
+#fnq_main{
+	float: left;
+	clear: both;
+	width: 797px;
+	height: 670px;
+	line-height: 30px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #f6c420;
+	border-bottom-color: #f6c420;
+	border-right-color: #f6c420;
+	border-left-color: #f6c420;	
+}
+#fnq_main_header{
+	float: left;
+	clear: both;
+	width: 797px;
+	height: 30px;
+	color: #FFF;
+	background-color: #f6c420;
+	text-align: center;
+}
+#fnq_main_header1{
+	float: left;
+	width:550px;
+	height: 30px;	
+}
+#fnq_main_header2{
+	float: left;
+	widtH: 150px;
+	height: 30px;
+}
+#fnq_main_header3{
+	float: left;
+	widtH: 97px;
+	height: 30px;
+}
+#fnq_user{
+	float: left;
+	widtH: 800px;
+	height: 150px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #f6c420;	
+
+}
+#fnq_story{
+	float: left;
+	width:540px;
+	height: 150px;
+	margin-left: 10px;
+}
+#fnq_story_header{
+	float: left;
+	width: 540px;
+	height: 30px;
+	margin-top:10px;
+}
+#fnq_story_main{
+	float: left;
+	width: 540px;
+	height: 100px;
+	margin-top: 10px;
+	
+}
+#fnq_date{
+	float:left;
+	widtH: 148px;
+	height: 150px;
+	text-align: center;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #f6c420;
+	border-left-color: #f6c420;	
+	line-height: 1.7cm;
+	
+}
+
+#fnq_ok{
+	float:left;
+	widtH: 100px;
+	height: 150px;
+	text-align: center;
+	line-height: 1.7cm;
+}
+#manager_answer{
+	float:left;
+	widtH: 540px;	
+	height: 470px;
+	margin-top:10px;
+	margin-left: 10px;
+}
+#answer_date{
+	float: left;
+	width: 150px;
+	height: 470px;
+	text-align: center;
+	margin-top: 10px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #f6c420;
+	border-left-color: #f6c420;	
+	line-height: 1.7cm;
+}
+#button{
+	float: left;
+	width: 210px;
+	height: 40px;
+	margin-left: 300px;	
+	margin-top: 30px;
+}
+#mybutton{
+	float: left;
+	width:100px; 
+	height: 40px;	
+}
+#mainbutton{
+	float: left;
+	width: 100px;
+	height: 40px;
+	margin-left: 10px;
+	
+}
